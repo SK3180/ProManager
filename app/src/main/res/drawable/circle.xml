@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="oval">
+
+        <!-- Set the desired background color for your round drawable -->
+        <solid android:color="#ffff" />
+
+        <!-- You can also add other properties like stroke or corner radius if needed -->
+         <stroke android:color="#000000" android:width="1dp" />
+        <corners android:radius="10dp" />
+
+    </shape>
+    </item>
+
+</selector>

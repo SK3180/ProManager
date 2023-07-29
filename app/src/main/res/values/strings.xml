@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProManager</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sk_singh">Sk Singh</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="task_name">Task Name</string>
+    <string name="pending">PENDING</string>
+    <string name="todo">TODO</string>
+    <string name="save_task">SAVE TASK</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_deadline">Task Deadline</string>
+    <string name="image">Image</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_successfully_saved">Task Successfully Saved</string>
+    <string name="username">UserName</string>
+</resources>
